@@ -4,6 +4,8 @@
 }
 .recycle-item-card {
   border-radius: 16px;
+  background-image: url("https://images.pexels.com/photos/7130560/pexels-photo-7130560.jpeg?cs=srgb&dl=pexels-codioful-%28formerly-gradienta%29-7130560.jpg");
+  background-size:cover;
 }
 .recycle-item-card:hover {
   transform: scale(1.10);
